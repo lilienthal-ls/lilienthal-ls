@@ -9,17 +9,36 @@ My interests lie especially in **data analysis and reporting**, survey-based ana
 #
 ### 🏗️ **Languages and Tools**
 
-Data Analysis & Visualization  
-<img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/NumPy-000000?style=flat&logo=numpy&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Pandas-000000?style=flat&logo=pandas&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/scikit--learn-000000?style=flat&logo=scikit-learn&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=matplotlib&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Seaborn-000000?style=flat" height="30"/>  <img src="https://img.shields.io/badge/Plotly-000000?style=flat&logo=plotly&logoColor=white" height="30"/>  <img src="https://img.shields.io/badge/Dash-000000?style=flat&logo=plotly&logoColor=white" height="30"/>  
+<div style="display:flex; align-items:center; gap:8px;">
+  <strong>Data Analysis & Visualization | </strong>
+  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/NumPy-000000?style=flat&logo=numpy&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/Pandas-000000?style=flat&logo=pandas&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/scikit--learn-000000?style=flat&logo=scikit-learn&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/Matplotlib-000000?style=flat" height="26"/>
+  <img src="https://img.shields.io/badge/Seaborn-000000?style=flat" height="26"/>
+  <img src="https://img.shields.io/badge/Plotly-000000?style=flat&logo=plotly&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/Dash-000000?style=flat&logo=plotly&logoColor=white" height="26"/>
+</div>
 
-Reporting & BI  
-<img src="https://img.shields.io/badge/Excel-000000?style=flat&logo=microsoftexcel&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Power%20BI-000000?style=flat&logo=powerbi&logoColor=white" height="30"/>  
+<div style="display:flex; align-items:center; gap:8px;">
+  <strong>Reporting & BI | </strong>
+  <img src="https://img.shields.io/badge/Excel-000000?style=flat&logo=microsoftexcel&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/Power%20BI-000000?style=flat&logo=powerbi&logoColor=white" height="26"/>
+</div>
 
-Databases  
-<img src="https://img.shields.io/badge/SQL-000000?style=flat&logo=sqlite&logoColor=white" height="30"/>  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=white" height="30"/>
+<div style="display:flex; align-items:center; gap:8px;">
+  <strong>Databases | </strong>
+  <img src="https://img.shields.io/badge/SQL-000000?style=flat&logo=sqlite&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=white" height="26"/>
+</div>
 
-Big Data  
-<img src="https://img.shields.io/badge/Apache%20Hadoop-000000?style=flat&logo=apachehadoop&logoColor=white" height="30"/>
+<div style="display:flex; align-items:center; gap:8px;">
+  <strong>Big Data | </strong>
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-000000?style=flat&logo=apachehadoop&logoColor=white" height="26"/>
+</div>
 
 #
 
