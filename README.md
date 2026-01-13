@@ -41,7 +41,6 @@ My interests lie especially in **data analysis and reporting**, survey-based ana
 </div>
 
 #
-
 ### 🏋️‍♀️ **Fun facts**
 - I learn new languages mainly to travel to new places and steal local recipes  🇫🇷 🇨🇳 🇮🇹 
 - I leg press 170 kg (I'm a Taurus rising 🐂)
