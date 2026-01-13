@@ -29,7 +29,6 @@ My interests lie especially in **data analysis and reporting**, survey-based ana
 
 <div style="display:flex; align-items:center; gap:8px;">
   <strong>Databases | </strong>
-  <img src="https://img.shields.io/badge/SQL-000000?style=flat&logo=sqlite&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=white" height="26"/>
