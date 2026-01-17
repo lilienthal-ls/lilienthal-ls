@@ -39,6 +39,12 @@ My interests lie especially in **data analysis and reporting**, survey-based ana
   <img src="https://img.shields.io/badge/Apache%20Hadoop-000000?style=flat&logo=apachehadoop&logoColor=white" height="26"/>
 </div>
 
+<div style="display:flex; align-items:center; gap:8px;">
+  <strong>Version Control & Collaboration | </strong>
+  <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" height="26"/>
+</div>
+
 #
 ### 🏋️‍♀️ **Fun facts**
 - I learn new languages mainly to travel to new places and steal local recipes  🇫🇷 🇨🇳 🇮🇹 
