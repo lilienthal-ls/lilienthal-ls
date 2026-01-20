@@ -14,11 +14,20 @@ My interests lie especially in **data analysis and reporting**, survey-based ana
   <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/NumPy-000000?style=flat&logo=numpy&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/Pandas-000000?style=flat&logo=pandas&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/scikit--learn-000000?style=flat&logo=scikit-learn&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/Matplotlib-000000?style=flat" height="26"/>
   <img src="https://img.shields.io/badge/Seaborn-000000?style=flat" height="26"/>
   <img src="https://img.shields.io/badge/Plotly-000000?style=flat&logo=plotly&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/Dash-000000?style=flat&logo=plotly&logoColor=white" height="26"/>
+</div>
+
+<div style="display:flex; align-items:center; gap:8px;">
+  <strong>Machine Learning | </strong>
+  <img src="https://img.shields.io/badge/scikit--learn-000000?style=flat&logo=scikit-learn&logoColor=white" height="26"/>
+</div>
+
+<div style="display:flex; align-items:center; gap:8px;">
+  <strong>Text Processing & NLP | </strong>
+  <img src="https://img.shields.io/badge/spaCy-000000?style=flat&logo=spacy&logoColor=white" height="26"/>
 </div>
 
 <div style="display:flex; align-items:center; gap:8px;">
